@@ -1,0 +1,113 @@
+//apply plugin: 'com.android.application'
+//
+//android {
+//    compileSdkVersion 34
+//
+//    defaultConfig {
+//        applicationId "com.tencent.yolov8ncnn"
+//        archivesBaseName = "$applicationId"
+//
+//        minSdkVersion 24
+//    }
+//
+//    externalNativeBuild {
+//        cmake {
+//            version "3.10.2"
+//            path file('src/main/jni/CMakeLists.txt')
+//        }
+//    }
+//
+//    dependencies {
+//        implementation 'com.android.support:support-v4:24.0.0'
+//    }
+//    namespace 'com.tencent.yolov8ncnn'
+//    buildFeatures {
+//        viewBinding true
+//    }
+//}
+//
+//dependencies {
+//    implementation 'androidx.appcompat:appcompat:1.0.0'
+//    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+//    implementation 'androidx.lifecycle:lifecycle-livedata:2.0.0'
+//    implementation 'androidx.lifecycle:lifecycle-viewmodel:2.0.0'
+//    implementation 'androidx.navigation:navigation-fragment:2.0.0-rc02'
+//    implementation 'androidx.navigation:navigation-ui:2.0.0-rc02'
+//    implementation 'com.google.android.material:material:1.0.0'
+////    implementation 'androidx.appcompat:appcompat:1.6.1'
+////    implementation 'com.google.android.material:material:1.11.0'
+////    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+//}
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.tencent.yolov8ncnn.test"
+        archivesBaseName = "$applicationId"
+
+        minSdkVersion 24
+        externalNativeBuild {
+            cmake {
+                cppFlags "-fexceptions"
+            }
+        }
+
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments = ["room.schemaLocation": "$projectDir/schemas".toString()]
+            }
+        }
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+    }
+
+    externalNativeBuild {
+        cmake {
+            version "3.10.2"
+//            path file('src/main/jni/CMakeLists.txt')
+            path file('src/main/jni/CMakeLists.txt')
+        }
+    }
+    namespace 'com.tencent.yolov8ncnn'
+
+    buildFeatures {
+        viewBinding true
+        dataBinding true
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.lifecycle:lifecycle-livedata:2.7.0'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel:2.7.0'
+    implementation 'androidx.navigation:navigation-fragment:2.7.7'
+    implementation 'androidx.navigation:navigation-ui:2.7.7'
+    implementation 'com.google.android.material:material:1.12.0'
+
+    //room
+    implementation "androidx.room:room-runtime:2.6.1"
+    annotationProcessor "androidx.room:room-compiler:2.6.1"
+    testImplementation "androidx.room:room-testing:2.6.1"
+
+    // Testing
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.arch.core:core-testing:2.2.0'
+    testImplementation 'androidx.test:core:1.5.0'
+    testImplementation 'androidx.test:rules:1.5.0'
+    testImplementation 'androidx.test:runner:1.5.2'
+
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+
+
+    // Other dependencies
+    implementation 'com.google.code.gson:gson:2.10'
+    implementation 'com.google.guava:guava:30.1-jre'
+
+
+}

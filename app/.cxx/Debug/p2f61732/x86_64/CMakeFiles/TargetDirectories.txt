@@ -1,0 +1,3 @@
+C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test/app/.cxx/Debug/p2f61732/x86_64/CMakeFiles/yolov8ncnn.dir
+C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test/app/.cxx/Debug/p2f61732/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test/app/.cxx/Debug/p2f61732/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+ninja: Entering directory `C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\.cxx\Debug\p2f61732\x86'
+[1/6] Building CXX object CMakeFiles/yolov8ncnn.dir/opencv_jni.cpp.o
+[2/6] Building CXX object CMakeFiles/yolov8ncnn.dir/opencv.cpp.o
+[3/6] Building CXX object CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o
+C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test/app/src/main/jni/ndkcamera.cpp:153:117: warning: format specifies type 'long' but the argument has type 'int64_t' (aka 'long long') [-Wformat]
+    __android_log_print(ANDROID_LOG_WARN, "NdkCamera", "onCaptureSequenceCompleted %p %d %ld", session, sequenceId, frameNumber);
+                                                                                         ~~~                        ^~~~~~~~~~~
+                                                                                         %lld
+1 warning generated.
+[4/6] Building CXX object CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o
+C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test/app/src/main/jni/yolov8ncnn.cpp:302:68: warning: format specifies type 'int' but the argument has type 'Yolo *' [-Wformat]
+    __android_log_print(ANDROID_LOG_DEBUG, "g_yolo", "g_yolo :%d", g_yolo);
+                                                              ~~   ^~~~~~
+1 warning generated.
+[5/6] Building CXX object CMakeFiles/yolov8ncnn.dir/yolo.cpp.o
+[6/6] Linking CXX shared library C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\build\intermediates\cxx\Debug\p2f61732\obj\x86\libyolov8ncnn.so

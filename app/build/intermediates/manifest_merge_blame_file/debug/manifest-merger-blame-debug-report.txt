@@ -1,0 +1,216 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.yolov8ncnn.test"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="24" />
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:6:5-65
+11-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:6:22-62
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:7:5-80
+12-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:7:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:8:5-81
+13-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:9:5-67
+14-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:9:22-64
+15
+16    <uses-feature
+16-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:11:5-13:36
+17        android:name="android.hardware.camera"
+17-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:12:9-47
+18        android:required="false" />
+18-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:13:9-33
+19    <uses-feature android:name="android.hardware.camera2.full" />
+19-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:14:5-66
+19-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:14:19-63
+20
+21    <permission
+21-->[androidx.core:core:1.13.0] C:\Users\chenchen\.gradle\caches\transforms-3\c1c1b4f844f2da99d4b95162d7d36c40\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+22        android:name="com.tencent.yolov8ncnn.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+22-->[androidx.core:core:1.13.0] C:\Users\chenchen\.gradle\caches\transforms-3\c1c1b4f844f2da99d4b95162d7d36c40\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+23        android:protectionLevel="signature" />
+23-->[androidx.core:core:1.13.0] C:\Users\chenchen\.gradle\caches\transforms-3\c1c1b4f844f2da99d4b95162d7d36c40\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+24
+25    <uses-permission android:name="com.tencent.yolov8ncnn.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+25-->[androidx.core:core:1.13.0] C:\Users\chenchen\.gradle\caches\transforms-3\c1c1b4f844f2da99d4b95162d7d36c40\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+25-->[androidx.core:core:1.13.0] C:\Users\chenchen\.gradle\caches\transforms-3\c1c1b4f844f2da99d4b95162d7d36c40\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+26
+27    <application
+27-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:16:5-59:19
+28        android:allowBackup="true"
+28-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:17:9-35
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.13.0] C:\Users\chenchen\.gradle\caches\transforms-3\c1c1b4f844f2da99d4b95162d7d36c40\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+30        android:debuggable="true"
+31        android:extractNativeLibs="false"
+32        android:icon="@mipmap/logo_round"
+32-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:20:9-42
+33        android:label="@string/app_name"
+33-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:18:9-41
+34        android:requestLegacyExternalStorage="true"
+34-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:19:9-52
+35        android:testOnly="true" >
+36        <activity
+36-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:22:9-32:20
+37            android:name="com.tencent.yolov8ncnn.NavActivity"
+37-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:23:13-40
+38            android:exported="true"
+38-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:24:13-36
+39            android:label="@string/app_name"
+39-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:25:13-45
+40            android:theme="@style/Theme.AppCompat" >
+40-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:26:13-51
+41            <intent-filter>
+41-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:27:13-31:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:28:17-69
+42-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:28:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:30:17-77
+44-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:30:27-74
+45            </intent-filter>
+46        </activity>
+47        <activity
+47-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:34:9-37:53
+48            android:name="com.tencent.yolov8ncnn.HistoryActivity"
+48-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:35:13-44
+49            android:exported="false"
+49-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:36:13-37
+50            android:theme="@style/Theme.AppCompat" />
+50-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:37:13-51
+51        <!-- android:theme="@style/Theme.AppCompat" -->
+52
+53        <activity
+53-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:41:9-45:72
+54            android:name="com.tencent.yolov8ncnn.MainActivity"
+54-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:42:13-41
+55            android:label="Main"
+55-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:43:13-33
+56            android:parentActivityName="com.tencent.yolov8ncnn.NavActivity"
+56-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:44:13-54
+57            android:theme="@style/Theme.AppCompat.Light.NoActionBar" /> <!-- android:screenOrientation="portrait" -->
+57-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:45:13-69
+58        <!-- android:screenOrientation="landscape" -->
+59        <activity
+59-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:47:9-52:54
+60            android:name="com.tencent.yolov8ncnn.VideoActivity"
+60-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:48:13-42
+61            android:exported="false"
+61-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:49:13-37
+62            android:label="Video"
+62-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:50:13-34
+63            android:parentActivityName="com.tencent.yolov8ncnn.NavActivity"
+63-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:51:13-54
+64            android:theme="@style/Theme.AppCompat" />
+64-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:52:13-51
+65        <activity
+65-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:53:9-58:54
+66            android:name="com.tencent.yolov8ncnn.ImageActivity"
+66-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:54:13-42
+67            android:exported="false"
+67-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:55:13-37
+68            android:label="Image"
+68-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:56:13-34
+69            android:parentActivityName="com.tencent.yolov8ncnn.NavActivity"
+69-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:57:13-54
+70            android:theme="@style/Theme.AppCompat" />
+70-->C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\AndroidManifest.xml:58:13-51
+71
+72        <provider
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\chenchen\.gradle\caches\transforms-3\6db5aa862a49de8667f2a7b9b0bf2022\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+73            android:name="androidx.startup.InitializationProvider"
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\chenchen\.gradle\caches\transforms-3\6db5aa862a49de8667f2a7b9b0bf2022\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+74            android:authorities="com.tencent.yolov8ncnn.test.androidx-startup"
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\chenchen\.gradle\caches\transforms-3\6db5aa862a49de8667f2a7b9b0bf2022\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+75            android:exported="false" >
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\chenchen\.gradle\caches\transforms-3\6db5aa862a49de8667f2a7b9b0bf2022\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+76            <meta-data
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\chenchen\.gradle\caches\transforms-3\6db5aa862a49de8667f2a7b9b0bf2022\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+77                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\chenchen\.gradle\caches\transforms-3\6db5aa862a49de8667f2a7b9b0bf2022\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+78                android:value="androidx.startup" />
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\chenchen\.gradle\caches\transforms-3\6db5aa862a49de8667f2a7b9b0bf2022\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+79            <meta-data
+79-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\chenchen\.gradle\caches\transforms-3\6f2b4a2c4b9140ba2cda8b4f97cc8f6b\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+80                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+80-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\chenchen\.gradle\caches\transforms-3\6f2b4a2c4b9140ba2cda8b4f97cc8f6b\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+81                android:value="androidx.startup" />
+81-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\chenchen\.gradle\caches\transforms-3\6f2b4a2c4b9140ba2cda8b4f97cc8f6b\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+82            <meta-data
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+83                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+84                android:value="androidx.startup" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+85        </provider>
+86
+87        <uses-library
+87-->[androidx.window:window:1.0.0] C:\Users\chenchen\.gradle\caches\transforms-3\1ea1c0b7cdf4f9e4361e565038f6c965\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+88            android:name="androidx.window.extensions"
+88-->[androidx.window:window:1.0.0] C:\Users\chenchen\.gradle\caches\transforms-3\1ea1c0b7cdf4f9e4361e565038f6c965\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+89            android:required="false" />
+89-->[androidx.window:window:1.0.0] C:\Users\chenchen\.gradle\caches\transforms-3\1ea1c0b7cdf4f9e4361e565038f6c965\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+90        <uses-library
+90-->[androidx.window:window:1.0.0] C:\Users\chenchen\.gradle\caches\transforms-3\1ea1c0b7cdf4f9e4361e565038f6c965\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+91            android:name="androidx.window.sidecar"
+91-->[androidx.window:window:1.0.0] C:\Users\chenchen\.gradle\caches\transforms-3\1ea1c0b7cdf4f9e4361e565038f6c965\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+92            android:required="false" />
+92-->[androidx.window:window:1.0.0] C:\Users\chenchen\.gradle\caches\transforms-3\1ea1c0b7cdf4f9e4361e565038f6c965\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+93
+94        <service
+94-->[androidx.room:room-runtime:2.6.1] C:\Users\chenchen\.gradle\caches\transforms-3\9716662f560bce94e1c5b96aa83d6e7b\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+95            android:name="androidx.room.MultiInstanceInvalidationService"
+95-->[androidx.room:room-runtime:2.6.1] C:\Users\chenchen\.gradle\caches\transforms-3\9716662f560bce94e1c5b96aa83d6e7b\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+96            android:directBootAware="true"
+96-->[androidx.room:room-runtime:2.6.1] C:\Users\chenchen\.gradle\caches\transforms-3\9716662f560bce94e1c5b96aa83d6e7b\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+97            android:exported="false" />
+97-->[androidx.room:room-runtime:2.6.1] C:\Users\chenchen\.gradle\caches\transforms-3\9716662f560bce94e1c5b96aa83d6e7b\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+98
+99        <receiver
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+100            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+101            android:directBootAware="false"
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+102            android:enabled="true"
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+103            android:exported="true"
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+104            android:permission="android.permission.DUMP" >
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+105            <intent-filter>
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+106                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+107            </intent-filter>
+108            <intent-filter>
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+109                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+110            </intent-filter>
+111            <intent-filter>
+111-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+112                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+112-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+112-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+113            </intent-filter>
+114            <intent-filter>
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+115                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\chenchen\.gradle\caches\transforms-3\0db8f035745ab68a2782efc838399652\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+116            </intent-filter>
+117        </receiver>
+118    </application>
+119
+120</manifest>

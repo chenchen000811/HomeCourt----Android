@@ -1,0 +1,1 @@
+C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\src\main\jni\CMakeLists.txt

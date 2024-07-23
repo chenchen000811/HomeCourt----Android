@@ -1,0 +1,31 @@
+[
+{
+  "directory": "C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/.cxx/Debug/p2f61732/x86",
+  "command": "C:\\Users\\chenchen\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --sysroot=C:/Users/chenchen/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyolov8ncnn_EXPORTS -isystem C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/src/main/jni/ncnn-20240102-android-vulkan/x86/include/ncnn -isystem C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/src/main/jni/opencv-mobile-4.9.0-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -fno-limit-debug-info  -fPIC   -fno-rtti -fexceptions -std=gnu++11 -o CMakeFiles\\yolov8ncnn.dir\\yolov8ncnn.cpp.o -c C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test2\\app\\src\\main\\jni\\yolov8ncnn.cpp",
+  "file": "C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test2\\app\\src\\main\\jni\\yolov8ncnn.cpp"
+},
+
+{
+  "directory": "C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/.cxx/Debug/p2f61732/x86",
+  "command": "C:\\Users\\chenchen\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --sysroot=C:/Users/chenchen/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyolov8ncnn_EXPORTS -isystem C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/src/main/jni/ncnn-20240102-android-vulkan/x86/include/ncnn -isystem C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/src/main/jni/opencv-mobile-4.9.0-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -fno-limit-debug-info  -fPIC   -fno-rtti -fexceptions -std=gnu++11 -o CMakeFiles\\yolov8ncnn.dir\\yolo.cpp.o -c C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test2\\app\\src\\main\\jni\\yolo.cpp",
+  "file": "C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test2\\app\\src\\main\\jni\\yolo.cpp"
+},
+
+{
+  "directory": "C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/.cxx/Debug/p2f61732/x86",
+  "command": "C:\\Users\\chenchen\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --sysroot=C:/Users/chenchen/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyolov8ncnn_EXPORTS -isystem C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/src/main/jni/ncnn-20240102-android-vulkan/x86/include/ncnn -isystem C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/src/main/jni/opencv-mobile-4.9.0-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -fno-limit-debug-info  -fPIC   -fno-rtti -fexceptions -std=gnu++11 -o CMakeFiles\\yolov8ncnn.dir\\ndkcamera.cpp.o -c C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test2\\app\\src\\main\\jni\\ndkcamera.cpp",
+  "file": "C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test2\\app\\src\\main\\jni\\ndkcamera.cpp"
+},
+
+{
+  "directory": "C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/.cxx/Debug/p2f61732/x86",
+  "command": "C:\\Users\\chenchen\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --sysroot=C:/Users/chenchen/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyolov8ncnn_EXPORTS -isystem C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/src/main/jni/ncnn-20240102-android-vulkan/x86/include/ncnn -isystem C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/src/main/jni/opencv-mobile-4.9.0-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -fno-limit-debug-info  -fPIC   -fno-rtti -fexceptions -std=gnu++11 -o CMakeFiles\\yolov8ncnn.dir\\opencv.cpp.o -c C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test2\\app\\src\\main\\jni\\opencv.cpp",
+  "file": "C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test2\\app\\src\\main\\jni\\opencv.cpp"
+},
+
+{
+  "directory": "C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/.cxx/Debug/p2f61732/x86",
+  "command": "C:\\Users\\chenchen\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --sysroot=C:/Users/chenchen/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyolov8ncnn_EXPORTS -isystem C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/src/main/jni/ncnn-20240102-android-vulkan/x86/include/ncnn -isystem C:/Users/chenchen/OneDrive/AndroidWorkplace/ncnn-android-yolov8-test2/app/src/main/jni/opencv-mobile-4.9.0-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -fno-limit-debug-info  -fPIC   -fno-rtti -fexceptions -std=gnu++11 -o CMakeFiles\\yolov8ncnn.dir\\opencv_jni.cpp.o -c C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test2\\app\\src\\main\\jni\\opencv_jni.cpp",
+  "file": "C:\\Users\\chenchen\\OneDrive\\AndroidWorkplace\\ncnn-android-yolov8-test2\\app\\src\\main\\jni\\opencv_jni.cpp"
+}
+]

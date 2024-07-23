@@ -1,0 +1,1 @@
+C:\Users\chenchen\OneDrive\AndroidWorkplace\ncnn-android-yolov8-test\app\build\intermediates\cxx\Debug\p2f61732\obj\x86_64

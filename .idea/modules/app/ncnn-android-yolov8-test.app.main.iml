@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/../../../../ncnn-android-yolov8-test/app/src/main/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../ncnn-android-yolov8-test/app/src/main/jni" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app/src/main" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/main/jni" type="native-Source-root" />
+    </content>
+  </component>
+</module>

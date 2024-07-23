@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\main.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\custom_alert_dialog.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\custom_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\fragment_tab3.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\fragment_tab3.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\list_item.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\stop_record_alert.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\stop_record_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\activity_image.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\fragment_tab1.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\fragment_tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\activity_nav.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\activity_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\toast_saved.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\toast_saved.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\real_time.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\real_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\detailed_title.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\detailed_title.xml"
+    },
+    {
+        "merged": "com.tencent.yolov8ncnn.app-mergeDebugResources-47:/layout/detailed_title.xml",
+        "source": "com.tencent.yolov8ncnn.app-main-50:/layout/detailed_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\test.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\fragment_tab2.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\fragment_tab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\detailed.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\detailed.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-mergeDebugResources-47:\\layout\\activity_video.xml",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\activity_video.xml"
+    }
+]

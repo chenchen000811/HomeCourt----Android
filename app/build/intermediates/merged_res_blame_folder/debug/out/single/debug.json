@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_fragment_tab2.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\fragment_tab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_delete_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\delete_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_play_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\play_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable_stop_button.png.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable\\stop_button.png"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_hotspot_preview.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\hotspot_preview.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_image_preview_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\image_preview_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_play_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\play_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable-mdpi_reset.png.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable-mdpi\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_play.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\play.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_image_preview_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\image_preview_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-anydpi-v26_logo_round.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-anydpi-v26\\logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_play.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\play.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_play_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\play_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_fragment_tab1.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\fragment_tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_delete_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\delete_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_hotspot_preview_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\hotspot_preview_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable\\baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_hotspot_preview_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\hotspot_preview_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_logo.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_hotspot_preview.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\hotspot_preview.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_image_preview.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\image_preview.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_activity_image.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_delete_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\delete_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_delete.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\delete.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_test.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-anydpi-v26_play.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-anydpi-v26\\play.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_delete.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\delete.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable_image_preview_background.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable\\image_preview_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_delete_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\delete_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_delete.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\delete.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_image_preview.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\image_preview.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_hotspot_preview_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\hotspot_preview_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable-hdpi_reset.png.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable-hdpi\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_image_preview.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\image_preview.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-anydpi-v26_logo.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-anydpi-v26\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\raw_score.mp3.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\raw\\score.mp3"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-anydpi-v26_image_preview.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-anydpi-v26\\image_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_hotspot_preview.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\hotspot_preview.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_logo.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_delete.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\delete.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_hotspot_preview_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\hotspot_preview_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_delete_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\delete_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable-xhdpi_reset.png.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable-xhdpi\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_delete_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\delete_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_custom_alert_dialog.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\custom_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_hotspot_preview.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\hotspot_preview.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_stop_record_alert.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\stop_record_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_play_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\play_foreground.webp"
+    },
+    {
+        "merged": "com.tencent.yolov8ncnn.app-merged_res-48:/layout_detailed_title.xml.flat",
+        "source": "com.tencent.yolov8ncnn.app-main-50:/layout/detailed_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_image_preview_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\image_preview_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_hotspot_preview_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\hotspot_preview_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_play_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\play_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_hotspot_preview_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\hotspot_preview_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_activity_video.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_logo.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_hotspot_preview_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\hotspot_preview_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_delete_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\delete_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_detailed.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\detailed.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_delete_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\delete_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_play.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\play.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable_hotspot_preview_background.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable\\hotspot_preview_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_play.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\play.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-anydpi-v26_hotspot_preview.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-anydpi-v26\\hotspot_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_play_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\play_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_main.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_detailed_title.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\detailed_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable-xxxhdpi_reset.png.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable-xxxhdpi\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_real_time.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\real_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-anydpi-v26_delete_round.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-anydpi-v26\\delete_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-anydpi-v26_delete.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-anydpi-v26\\delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_play.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\play.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable_play.png.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable_back.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_play_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\play_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_image_preview.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\image_preview.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_logo.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-anydpi-v26_hotspot_preview_round.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-anydpi-v26\\hotspot_preview_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable_image_preview_foreground.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable\\image_preview_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_toast_saved.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\toast_saved.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_play_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\play_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_hotspot_preview.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\hotspot_preview.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-anydpi-v26_play_round.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-anydpi-v26\\play_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_activity_nav.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\activity_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable-xxhdpi_reset.png.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable-xxhdpi\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_image_preview_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\image_preview_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable_hotspot_preview.png.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable\\hotspot_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-mdpi_image_preview.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-mdpi\\image_preview.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_logo.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_play_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\play_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_delete_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\delete_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_image_preview_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\image_preview_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_hotspot_preview_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\hotspot_preview_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-anydpi-v26_image_preview_round.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-anydpi-v26\\image_preview_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\layout_fragment_tab3.xml.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\layout\\fragment_tab3.xml"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxxhdpi_delete.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxxhdpi\\delete.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_hotspot_preview_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\hotspot_preview_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xxhdpi_play_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xxhdpi\\play_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-xhdpi_hotspot_preview_round.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-xhdpi\\hotspot_preview_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-merged_res-48:\\mipmap-hdpi_delete_foreground.webp.flat",
+        "source": "C:\\Users\\chenchen\\.gradle\\daemon\\8.2\\com.tencent.yolov8ncnn.app-main-50:\\mipmap-hdpi\\delete_foreground.webp"
+    }
+]
